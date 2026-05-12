@@ -38,7 +38,7 @@ nistula-technical-assessment/
 ### 1. Clone and enter
 
 ```bash
-git clone https://github.com/<your-username>/nistula-technical-assessment
+git clone https://github.com/HarikaGadagotti/nistula-technical-assessment
 cd nistula-technical-assessment
 ```
 
